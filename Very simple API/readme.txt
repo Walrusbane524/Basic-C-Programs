@@ -1,3 +1,5 @@
+Just a simple API that uses dynamic memory allocation to make arrays and matrices.
+
 To make the exectutable file (Ubuntu):
 
 1. Open the command prompt inside the folder.
